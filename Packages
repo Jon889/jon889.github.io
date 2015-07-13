@@ -1,0 +1,12 @@
+Package: com.jbp.revealnc
+Version: 0.0.1-15
+Architecture: iphoneos-arm
+Maintainer: Jonathan
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs//com.jbp.revealnc_0.0.1-15_iphoneos-arm.deb
+Size: 4304
+MD5sum: 2a131757ab48030eaf7b047eaa0e85d6
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+
