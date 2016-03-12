@@ -8,6 +8,17 @@ Filename: debs//com.jbp.revealnc_0.0.1-16_iphoneos-arm.deb
 Size: 4306
 MD5sum: 28e151ef04839d0ed0c9e73d2b084b0f
 Section: Tweaks
-Name: RevealNC
 Description: Reveal the NC rather than drag it down
+
+Package: com.jbp.runtimedump
+Version: 0.0.1-21
+Architecture: iphoneos-arm
+Maintainer: Jonathan Bailey
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs//com.jbp.runtimedump_0.0.1-21_iphoneos-arm.deb
+Size: 14714
+MD5sum: 84da6c947473c10f01ab86cc0a8d8fee
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
 
